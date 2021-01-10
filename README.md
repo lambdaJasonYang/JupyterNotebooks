@@ -9,3 +9,5 @@ Detailed proof of correctness of recursive combination function
 >Set theory, Transitive closure of relations 
 
 >Set Theory, ZFC set theoretical implementation of natural numbers
+
+>Hutton's Fold paper implementation and explanation
